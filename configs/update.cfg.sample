@@ -1,4 +1,4 @@
 [Update]
 auto_update = True
 upstream = upstream
-update-fork = True
+update-fork = true
